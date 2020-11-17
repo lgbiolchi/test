@@ -1,0 +1,4 @@
+LEARNING GITHUB
+- it allows us to share our work with colleagues, team members or other people based on git repositories
+- git is the technology and github is the platform to share and collaborate
+- 
