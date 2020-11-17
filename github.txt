@@ -7,3 +7,6 @@ THE STEPS TO COMMIT A FILE TO GITHUB ARE
 - add the repository to github "git remote add origin 'link for the remote provided by github'"
 - check if we have a remote "git remote -v"
 - push our code or whatever it is to github "git push -u origin master" --- where origin is the name we used two steps ago and master is the branch we are pushing
+
+WHEN ANOTHER USER COMMITS CHANGES: HOW DOES IT LOOK AND WHAT TO DO?
+- if we are with another user's account, we have to commit and pull
