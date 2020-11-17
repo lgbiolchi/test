@@ -1,4 +1,9 @@
 LEARNING GITHUB
 - it allows us to share our work with colleagues, team members or other people based on git repositories
 - git is the technology and github is the platform to share and collaborate
-- 
+
+THE STEPS TO COMMIT A FILE TO GITHUB ARE
+- first we have to create a git repository
+- add the repository to github "git remote add origin 'link for the remote provided by github'"
+- check if we have a remote "git remote -v"
+- push our code or whatever it is to github "git push -u origin master" --- where origin is the name we used two steps ago and master is the branch we are pushing
